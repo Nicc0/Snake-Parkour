@@ -1,6 +1,6 @@
 ![SnakeParkour Header](https://i.imgur.com/SMjiNii.png)
 
-# Snake Parkour 
+# Snake Parkour - Plugin for Minecraft Server (Bukkit/Spigot)
 ![](https://img.shields.io/badge/Java-7_or_later-green.svg?style=flat-square&link=https://java.com)
 ![](https://img.shields.io/badge/CraftBukkit->_1.10.2-blue.svg?style=flat-square&link=https://bukkit.org) 
 ![](https://img.shields.io/badge/Spigot->_1.10.2-yellow.svg?style=flat-square&link=https://spigotmc.org)
@@ -47,7 +47,7 @@ Our plugin doesn't allow to modify existing sources, so that's why we created AP
 private SnakeParkourAPI snakeparkour;
 
 @Override
-onEnable() {
+public void onEnable() {
   snakeparkour = SnakeParkourManagment.getAPI();
   
   if(snakeparkour == null) {
