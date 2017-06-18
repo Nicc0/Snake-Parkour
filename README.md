@@ -1,4 +1,4 @@
-![SnakeParkour Header](https://i.imgur.com/SMjiNii.png)
+<div align="center"><img alt="SnakeParkour Header" src="https://i.imgur.com/SMjiNii.png"></div>
 
 # Snake Parkour - Plugin for Minecraft Server (Bukkit/Spigot)
 ![](https://img.shields.io/badge/Java-7_or_later-green.svg?style=flat-square&link=https://java.com)
@@ -20,12 +20,12 @@ and uses the Java 7 or later. If you like our project give us Star on GitHub and
  * Own API (check below)
  
 ### Want to know more? Visit our wiki
-* Setup
-* Commands
-* Permissions
-* Messages
-* Creating map
-* API
+* [Setup](https://github.com/Nicc0/Snake-Parkour/wiki/Setup-Guide)
+* [Commands](https://github.com/Nicc0/Snake-Parkour/wiki/Commands)
+* [Permissions](https://github.com/Nicc0/Snake-Parkour/wiki/Permissions)
+* [Messages](https://github.com/Nicc0/Snake-Parkour/wiki/Messages)
+* [Creating map](https://github.com/Nicc0/Snake-Parkour/wiki/Creating-Map-Guide)
+* [API](https://github.com/Nicc0/Snake-Parkour/wiki/API)
 
 ## Problems, errors and ideas
 If you have some problems with configuration, messages, creating map or your console send weird errors, 
@@ -56,12 +56,12 @@ public void onEnable() {
 }
 ```
 
-More information about API you find on our wiki, click here
+More information about API you find on our wiki, [click here](https://github.com/Nicc0/Snake-Parkour/wiki/API).
 
 ## Frequently Asked Question (FAQ)
 <dl>
   <dt>Where can I download plugin?</dt>
-  <dd>You can download the plugin from our resource page on www.spigot.org (click here)</dd>
+  <dd>You can download the plugin from our resource page on www.spigotmc.org (click here)</dd>
 
   <dt>Can I modify plugin?</dt>
   <dd>We would prefer you didn't do it. That's why we created the API.</dd>
@@ -71,4 +71,7 @@ More information about API you find on our wiki, click here
 
   <dt>I have latest version of spigot/bukkit and plugin doesn't work, what I am doing wrong?</dt>
   <dd>If the plugin doesn't work in the latest version we will try to fix it as soon as possible.</dd>
+  
+  <dt>I have a problem but you don't answer on spigotmc.org, so where do I have to go for help?</dt>
+  <dd>I get too many questions there and it's hard to answer for all of it. If you have any problem create new issiue on github.</dd>
 </dl>
