@@ -61,7 +61,7 @@ More information about API you find on our wiki, [click here](https://github.com
 ## Frequently Asked Question (FAQ)
 <dl>
   <dt>Where can I download plugin?</dt>
-  <dd>You can download the plugin from our resource page on www.spigotmc.org [click here](https://goo.gl/AWj3VF)</dd>
+  <dd>You can download the plugin from our resource page on www.spigotmc.org (<a href="https://goo.gl/AWj3VF">click here</a>)</dd>
 
   <dt>Can I have the source code to modify plugin for my network/server??</dt>
   <dd>We would prefer you didn't do it. That's why we created the API.</dd>
