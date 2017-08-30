@@ -61,13 +61,13 @@ More information about API you find on our wiki, [click here](https://github.com
 ## Frequently Asked Question (FAQ)
 <dl>
   <dt>Where can I download plugin?</dt>
-  <dd>You can download the plugin from our resource page on www.spigotmc.org (click here)</dd>
+  <dd>You can download the plugin from our resource page on www.spigotmc.org ([click here](goo.gl/AWj3VF))</dd>
 
-  <dt>Can I modify plugin?</dt>
+  <dt>Can I have the source code to modify plugin for my network/server??</dt>
   <dd>We would prefer you didn't do it. That's why we created the API.</dd>
 
   <dt>Does the plugin works in the latest Minecraft versions?</dt>
-  <dd>In principle it should work from version 1.9 to the latest.</dd>
+  <dd>In principle it should work from version 1.8 to the latest.</dd>
 
   <dt>I have latest version of spigot/bukkit and plugin doesn't work, what I am doing wrong?</dt>
   <dd>If the plugin doesn't work in the latest version we will try to fix it as soon as possible.</dd>
